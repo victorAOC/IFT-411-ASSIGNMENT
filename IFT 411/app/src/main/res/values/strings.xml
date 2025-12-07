@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Aboks Phones</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create_account">Create Account</string>
+    <string name="no_account">Don\'t have an account? Create one</string>
+    <string name="have_account">Already have an account? Login</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_apple">Continue with Apple</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="home_title">Available Phones</string>
+    <string name="phone1_name">iPhone 14 Pro</string>
+    <string name="phone1_price">$999</string>
+    <string name="phone2_name">Samsung S23 Ultra</string>
+    <string name="phone2_price">$1199</string>
+    <string name="phone3_name">Pixel 7 Pro</string>
+    <string name="phone3_price">$899</string>
+</resources>
